@@ -1,0 +1,17 @@
+{
+  "name": "scoolFlask",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "python or https://github.com/StFLeR/scoolFlask.git"
+    }
+  ]
+}
